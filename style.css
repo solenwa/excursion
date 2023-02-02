@@ -1,0 +1,11 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
